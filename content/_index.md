@@ -15,9 +15,9 @@ sections:
       text: |
         <br>
         
-        Samsung Advanced Institute of Health Sciences and Technology (SAIHST)\\
-        Samsung Medical Center\\
-        여러 간 질환 극복을 위한 중개연구를 수행합니다.(내용추가해주세요)
+        Samsung Advanced Institute of Health Sciences and Technology (SAIHST)<br>
+        Samsung Medical Center<br>
+        여러 간 질환 극복을 위한 중개연구를 수행합니다.
   
   - block: collection
     content:
