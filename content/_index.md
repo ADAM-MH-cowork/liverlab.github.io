@@ -15,7 +15,9 @@ sections:
       text: |
         <br>
         
-        여러 간 질환 극복을 위한 중개연구를 수행합니다. (내용 추가해주세여)
+        Samsung Advanced Institute of Health Sciences and Technology (SAIHST)
+        Samsung Medical Center
+        여러 간 질환 극복을 위한 중개연구를 수행합니다.(내용추가해주세요)
   
   - block: collection
     content:
@@ -49,13 +51,13 @@ sections:
         image: 
           filename: research_bg.jpg
           filters:
-            brightness: 0.5
+            brightness: 1
           parallax: false
           position: center
           size: cover
           text_color_light: true
       spacing:
-        padding: ['60px', '0', '60px', '0']
+        padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
   - block: collection
