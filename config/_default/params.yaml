@@ -29,12 +29,13 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
     align: r
     show_logo: true
+    logo:
+      filename: icon.png
     show_language: false
     show_day_night: true
     show_search: true
