@@ -1,12 +1,11 @@
 ---
 title: Professor
 type: landing
-
 sections:
   - block: people
     content:
       title: ''
-      username_filter:
+      user_groups:
         - Principal Investigators
     design:
       show_interests: true
