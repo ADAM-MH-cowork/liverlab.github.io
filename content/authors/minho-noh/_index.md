@@ -7,9 +7,9 @@ role: Researcher
 user_groups:
   - Researcher
 interests:
-  - Spatial Transcriptomics
-  - Multi-modality
-  - Agentic AI
+  - Spatial Transcriptomics <br>
+  - Multi-modality <br>
+  - Agentic AI <br>
   - AI
 social:
   - icon: envelope
