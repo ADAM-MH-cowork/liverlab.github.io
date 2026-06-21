@@ -38,27 +38,29 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title: 우리의 연구
       subtitle: ''
-      text:
+      text: |
+        간 섬유화, 간암, 간 이식 후 면역 등
+        간 질환 전반에 대한 연구를 수행합니다.(이게맞을지...)
     design:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: research_bg.jpg
           filters:
-            brightness: 1
+            brightness: 0.5
           parallax: false
           position: center
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['60px', '0', '60px', '0']
       css_class: fullscreen
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:
