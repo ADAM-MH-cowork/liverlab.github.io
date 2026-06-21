@@ -1,77 +1,46 @@
----
 # Display name
-title: Nelson Bighetti
-
+title: Wonseok Kang
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
-
+first_name: Wonseok
+last_name: Kang
 # Is this the primary user of the site?
 superuser: true
-
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Associate Professor / Principal Investigator
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Samsung Medical Center · Sungkyunkwan University School of Medicine
     url: ''
-
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: 간 질환 극복을 위한 중개연구를 수행합니다.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - 바이러스성 간염 / 만성간염
+  - 간경변 / 지방간질환(대사이상지방간질환)
+  - 간세포암 (간암)
+  - 간이식 / 자가면역간질환
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: 의과학대학원 박사 (Ph.D.)
+      institution: 한국과학기술원(KAIST)
+      year: 2013
+    - course: 의과대학 대학원 석사 (M.S.)
+      institution: 연세대학교
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: 의과대학 의학과 (M.D.)
+      institution: 연세대학교
+      year: 2004
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:교수님이메일@skku.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
+    link: https://scholar.google.com/citations?user=교수님ID
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
-
 # Highlight the author in author lists? (true/false)
-highlight_name: false
-
+highlight_name: true
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
----
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+  - Principal Investigators
