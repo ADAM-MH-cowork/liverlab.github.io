@@ -1,12 +1,11 @@
 ---
 title: Researcher
 type: landing
-
 sections:
   - block: people
     content:
       title: ''
-      username_filter:
+      user_groups:
         - Researchers
     design:
       show_interests: true
