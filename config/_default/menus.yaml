@@ -10,16 +10,8 @@ main:
     url: research
     weight: 20
   - name: People
-    url: '#'
+    url: people/
     weight: 30
-  - name: Professor
-    url: people/professor
-    parent: People
-    weight: 31
-  - name: Researcher
-    url: people/researcher
-    parent: People
-    weight: 32
   - name: Projects
     url: project
     weight: 40
