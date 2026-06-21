@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Lab of Translational
+        Liver Research
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        여러 간 질환 극복을 위한 중개연구를 수행합니다. (내용 추가해주세여)
   
   - block: collection
     content:
