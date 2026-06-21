@@ -6,7 +6,11 @@ superuser: false
 role: Researcher
 user_groups:
   - Researcher
-interests: []
+interests:
+  - Spatial Transcriptomics
+  - Multi-modality
+  - Agentic AI
+  - AI
 social:
   - icon: envelope
     icon_pack: fas
