@@ -6,9 +6,9 @@ superuser: false
 role: Ph.D. Student
 user_groups:
   - Ph.D. Student
-interests: []
+interests: TBD
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:nabonge@skku.edu'
 ---
