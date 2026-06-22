@@ -51,10 +51,10 @@ sections:
             <img src="media/collab-mohw.png" style="max-height:60px; max-width:100%;">
           </div>
           <div style="border:1px solid #eee; border-radius:8px; padding:30px; display:flex; align-items:center; justify-content:center; background:#fff;">
-            <img src="media/collab-nrf.png" style="max-height:60px; max-width:100%;">
+            <img src="media/collab-nrf.jpg" style="max-height:60px; max-width:100%;">
           </div>
           <div style="border:1px solid #eee; border-radius:8px; padding:30px; display:flex; align-items:center; justify-content:center; background:#fff;">
-            <img src="media/collab-zymedi.png" style="max-height:60px; max-width:100%;">
+            <img src="media/collab-zymedi.jpg" style="max-height:60px; max-width:100%;">
           </div>
         </div>
     design:
