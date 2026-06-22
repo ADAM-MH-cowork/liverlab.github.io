@@ -3,7 +3,7 @@ title: Jiyoung Kwak
 first_name: Jiyoung
 last_name: Kwak
 superuser: false
-role: Integrated M.S.-Ph.D. Student
+role: Integrated M.S.-Ph.D.
 user_groups:
   - Integrated M.S.-Ph.D.
 interests: TBD
