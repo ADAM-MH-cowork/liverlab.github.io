@@ -1,4 +1,42 @@
-- block: markdown
+---
+title:
+date: 2022-10-24
+type: landing
+sections:
+  - block: hero
+    content:
+      title: |
+        Lab of Translational
+        Liver Research
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+
+        Samsung Advanced Institute of Health Sciences and Technology (SAIHST)<br>
+        Samsung Medical Center<br>
+        여러 간 질환 극복을 위한 중개연구를 수행합니다.
+
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+
+  - block: markdown
     content:
       title: Collaborators
       text: |
@@ -23,3 +61,4 @@
       columns: '1'
       spacing:
         padding: ['40px', '0', '40px', '0']
+---
