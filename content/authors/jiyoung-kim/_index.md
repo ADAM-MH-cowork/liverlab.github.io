@@ -6,7 +6,10 @@ superuser: false
 role: Post-doctoral Researcher
 user_groups:
   - Post-doc
-interests: Cancer Immunotherapy<br>
+interests:
+  - Cancer Immunotherapy
+  - Liver Disease
+  - Translational Research
 social:
   - icon: envelope
     icon_pack: fas
