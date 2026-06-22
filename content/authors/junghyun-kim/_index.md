@@ -6,9 +6,11 @@ superuser: false
 role: Ph.D. Student
 user_groups:
   - Ph.D. Student
-interests: []
+interests:
+  - Multi-omics
+  - Translational research
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto: jenny8030@g.skku.edu'
 ---
