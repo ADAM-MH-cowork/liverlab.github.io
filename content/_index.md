@@ -1,84 +1,29 @@
----
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
-type: landing
-
-sections:
-  - block: hero
+- block: markdown
     content:
-      title: |
-        Lab of Translational
-        Liver Research
-      image:
-        filename: welcome.jpg
+      title: Collaborators
       text: |
-        <br>
-        
-        Samsung Advanced Institute of Health Sciences and Technology (SAIHST)<br>
-        Samsung Medical Center<br>
-        여러 간 질환 극복을 위한 중개연구를 수행합니다.
+        <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:20px; max-width:900px; margin:0 auto;">
+          <div style="border:1px solid #eee; border-radius:8px; padding:30px; display:flex; align-items:center; justify-content:center; background:#fff;">
+            <img src="media/collab-smc.png" style="max-height:60px; max-width:100%;">
+          </div>
+          
+          <div style="border:1px solid #eee; border-radius:8px; padding:30px; display:flex; align-items:center; justify-content:center; background:#fff;">
+            <img src="media/collab-skku.png" style="max-height:60px; max-width:100%;">
+          </div>
   
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+          <div style="border:1px solid #eee; border-radius:8px; padding:30px; display:flex; align-items:center; justify-content:center; background:#fff;">
+            <img src="media/collab-mohw.png" style="max-height:60px; max-width:100%;">
+          </div>
   
-  - block: markdown
-    content:
-      title: 우리의 연구
-      subtitle: ''
-      text: |
-        간 섬유화, 간암, 간 이식 후 면역 등
-        간 질환 전반에 대한 연구를 수행합니다.(이게맞을지...)
+          <div style="border:1px solid #eee; border-radius:8px; padding:30px; display:flex; align-items:center; justify-content:center; background:#fff;">
+            <img src="media/collab-nrf.png" style="max-height:60px; max-width:100%;">
+          </div>
+  
+            <div style="border:1px solid #eee; border-radius:8px; padding:30px; display:flex; align-items:center; justify-content:center; background:#fff;">
+            <img src="media/collab-zymedi.png" style="max-height:60px; max-width:100%;">
+          </div>
+        </div>
     design:
       columns: '1'
-      background:
-        image: 
-          filename: research_bg.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
----
+        padding: ['40px', '0', '40px', '0']
