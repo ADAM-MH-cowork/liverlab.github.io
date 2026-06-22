@@ -6,9 +6,9 @@ superuser: false
 role: Post-doctoral Researcher
 user_groups:
   - Post-doc
-interests: []
+interests: Cancer Immunotherapy<br>
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:kimjiyoung0902@gmail.com'
 ---
