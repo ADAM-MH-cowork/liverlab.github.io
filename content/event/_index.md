@@ -1,10 +1,6 @@
 ---
-title: Recent & Upcoming Events
-
-# Listing view
-view: compact
-
-# Optional header image (relative to `assets/media/` folder).
+title: Projects
+view: card
 banner:
   caption: ''
   image: ''
