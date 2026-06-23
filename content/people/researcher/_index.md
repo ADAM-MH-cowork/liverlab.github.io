@@ -42,7 +42,7 @@ sections:
       show_role: true
       show_social: true
       columns: '3'
-   - block: markdown
+  - block: markdown
     content:
       title: Alumni
       text: |
