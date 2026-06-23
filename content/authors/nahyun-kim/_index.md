@@ -5,7 +5,7 @@ last_name: Kim
 superuser: false
 role: Ph.D. Student
 user_groups:
-  - Ph.D. Students
+  - Ph.D. Student
 interests:
   - TBD
 social:
