@@ -10,7 +10,6 @@ interests:
   - Spatial Transcriptomics
   - Multi-modality
   - Agentic AI
-  - AI
 social:
   - icon: envelope
     icon_pack: fas
