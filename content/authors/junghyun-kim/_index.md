@@ -5,10 +5,12 @@ last_name: Kim
 superuser: false
 role: Ph.D. Student
 user_groups:
-  - Ph.D. Student
+  - Ph.D. Students
 interests:
-  - Multi-omics
-  - Translational research
+  - Spatial Transcriptomics
+  - Multi-modality
+  - Agentic AI
+  - AI
 social:
   - icon: envelope
     icon_pack: fas
