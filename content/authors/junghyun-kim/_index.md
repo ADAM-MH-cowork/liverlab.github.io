@@ -12,5 +12,5 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: jenny8030@g.skku.edu'
+    link: 'mailto:jenny8030@g.skku.edu'
 ---
