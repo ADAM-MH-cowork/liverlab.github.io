@@ -7,8 +7,8 @@ role: Ph.D. Student
 user_groups:
   - Ph.D. Student
 interests:
+  - Hepatocellular Carcinoma
   - CAR-NK Immunotherapy
-  - HCC
   - Organoid-Based Translational Research
 social:
   - icon: envelope
