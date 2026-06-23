@@ -1,13 +1,15 @@
 ---
-title: Minju Kim
-first_name: Minju
+title: Minjoo Kim
+first_name: Minjoo
 last_name: Kim
 superuser: false
 role: Ph.D. Student
 user_groups:
   - Ph.D. Student
 interests:
-  - TBD
+  - CAR-NK Immunotherapy
+  - HCC
+  - Organoid-Based Translational Research
 social:
   - icon: envelope
     icon_pack: fas
