@@ -7,10 +7,8 @@ role: Ph.D. Student
 user_groups:
   - Ph.D. Students
 interests:
-  - Spatial Transcriptomics
-  - Multi-modality
-  - Agentic AI
-  - AI
+  - Multi-omics
+  - Translational research
 social:
   - icon: envelope
     icon_pack: fas
