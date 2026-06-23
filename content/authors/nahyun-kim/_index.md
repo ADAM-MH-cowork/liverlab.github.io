@@ -3,10 +3,10 @@ title: Nahyun Kim
 first_name: Nahyun
 last_name: Kim
 superuser: false
-role: Ph.D. Student
+role: Ph.D. Students
 user_groups:
-  - Ph.D. Student
-interests: TBD
+  - Ph.D. Students
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
