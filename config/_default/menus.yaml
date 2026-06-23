@@ -21,7 +21,7 @@ main:
     parent: People
     weight: 32
   - name: Projects
-    url: project
+    url: event
     weight: 40
   - name: Publication
     url: publication
