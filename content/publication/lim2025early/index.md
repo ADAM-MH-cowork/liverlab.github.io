@@ -7,6 +7,6 @@ authors:
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types: ["2"]
-publication: "The Lancet Gastroenterology \& Hepatology, 10(4), 295-305"
+publication: "The Lancet Gastroenterology & Hepatology, 10(4), 295-305"
 featured: false
 ---

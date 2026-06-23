@@ -7,6 +7,6 @@ authors:
 date: "2020-01-01"
 publishDate: "2020-01-01"
 publication_types: ["2"]
-publication: "Alimentary Pharmacology \& Therapeutics, 52(1), 196-204"
+publication: "Alimentary Pharmacology & Therapeutics, 52(1), 196-204"
 featured: false
 ---

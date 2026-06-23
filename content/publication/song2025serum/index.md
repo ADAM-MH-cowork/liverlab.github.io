@@ -7,6 +7,6 @@ authors:
 date: "2025-01-01"
 publishDate: "2025-01-01"
 publication_types: ["2"]
-publication: "Alimentary Pharmacology \& Therapeutics, 61(3), 491-500"
+publication: "Alimentary Pharmacology & Therapeutics, 61(3), 491-500"
 featured: false
 ---
