@@ -1,6 +1,6 @@
 ---
-title: Jiyoung Kim
-first_name: Jiyoung
+title: Ji Young Kim
+first_name: Ji Young
 last_name: Kim
 superuser: false
 role: Post-doctoral Researcher
