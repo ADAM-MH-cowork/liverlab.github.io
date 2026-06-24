@@ -3,9 +3,9 @@ title: Junghyun Kim
 first_name: Junghyun
 last_name: Kim
 superuser: false
-role: Ph.D. Student
+role: Integrated M.S.-Ph.D.
 user_groups:
-  - Ph.D. Student
+  - Integrated M.S.-Ph.D.
 interests:
   - Multi-omics
   - Translational research
