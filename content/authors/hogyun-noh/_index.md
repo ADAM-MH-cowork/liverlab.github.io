@@ -3,9 +3,9 @@ title: Hogyun Noh
 first_name: Hogyun
 last_name: Noh
 superuser: false
-role: Ph.D. Student
+role: Integrated M.S.-Ph.D.
 user_groups:
-  - Ph.D. Student
+  - Integrated M.S.-Ph.D.
 interests: []
 social:
   - icon: envelope
