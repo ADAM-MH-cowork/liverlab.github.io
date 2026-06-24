@@ -1,4 +1,4 @@
-<img width="608" height="812" alt="image" src="https://github.com/user-attachments/assets/64908ebc-6e9a-48aa-ab2b-7cc07696e7a8" />---
+---
 title: Nahyun Kim
 first_name: Nahyun
 last_name: Kim
