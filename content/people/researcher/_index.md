@@ -7,6 +7,8 @@ sections:
       title: Post-doctoral Researcher
       user_groups:
         - Post-doc
+      sort_by: 'Params.weight'
+      sort_ascending: true
     design:
       show_interests: true
       show_role: true
@@ -17,6 +19,8 @@ sections:
       title: Ph.D. Students
       user_groups:
         - Ph.D. Student
+      sort_by: 'Params.weight'
+      sort_ascending: true
     design:
       show_interests: true
       show_role: true
@@ -27,6 +31,8 @@ sections:
       title: Integrated M.S.-Ph.D. Students
       user_groups:
         - Integrated M.S.-Ph.D.
+      sort_by: 'Params.weight'
+      sort_ascending: true
     design:
       show_interests: true
       show_role: true
@@ -37,6 +43,8 @@ sections:
       title: Researchers
       user_groups:
         - Researcher
+      sort_by: 'Params.weight'
+      sort_ascending: true
     design:
       show_interests: true
       show_role: true
