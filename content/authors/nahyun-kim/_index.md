@@ -8,7 +8,8 @@ user_groups:
   - Ph.D. Student
 interests:
   - Multi-omics
-  - AI based diagnosis
+  - Multi-modal AI
+  - AI-based diagnosis
 social:
   - icon: envelope
     icon_pack: fas
