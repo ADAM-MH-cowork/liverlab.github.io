@@ -4,6 +4,7 @@ first_name: Jiyoung
 last_name: Gwak
 superuser: false
 role: Integrated M.S.-Ph.D.
+weight: 3
 user_groups:
   - Integrated M.S.-Ph.D.
 interests:
