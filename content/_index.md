@@ -51,7 +51,7 @@ sections:
             <img src="/liverlab.github.io/media/collab-nrf.jpg" style="max-height:60px; max-width:100%;">
           </div>
           <div style="border:1px solid #eee; border-radius:8px; padding:30px; display:flex; align-items:center; justify-content:center; background:#fff;">
-            <img src="/liverlab.github.io/media/collab-zymedi.jpg" style="max-height:60px; max-width:100%;">
+            <img src="/liverlab.github.io/media/collab-saihst.png" style="max-height:60px; max-width:100%;">
           </div>
         </div>
     design:
