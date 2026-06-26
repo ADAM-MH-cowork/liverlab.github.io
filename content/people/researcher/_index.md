@@ -64,6 +64,7 @@ sections:
         - Jiwon Yoo (Internship)
         - Suji Lee (Internship)
         - Jaewon Yang (Internship)
+        - Minho Noh (Researcher)
     design:
       columns: '1'
 ---
